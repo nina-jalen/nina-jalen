@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there! I'm Nina 
 
-<!--
-**nina-jalen/nina-jalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a frontend engineer in the making, passionate about building sleek, user-friendly web apps and solving real-world problems with elegant code 🚀
 
-Here are some ideas to get you started:
+## 👩‍💻 Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Live Demo](https://img.shields.io/badge/Check%20out%20my%20Portflio-%23FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://ninas-web-works.netlify.app/)
+
+## 🧠 Interests
+
+💡 Curious about APIs, design systems & React ecosystems  
+🛠 Passionate about: UI/UX and pixel-perfect layouts
+🌎 Believer in wielding technical prowess responsibly
+
+## 🧰 Tech Stack
+
+JavaScript | React JS | HTML/CSS | Responsive | CMS | Bootstrap | APIs | AI
+
+## 🌟 Interests
+
+🌐 Tech enthusiast  
+🧩 Problem solving  
+📚 Always learning something new
