@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a frontend engineer in the making, passionate 
 
 ## 👩‍💻 Portfolio
 
-[![Live Demo](https://img.shields.io/badge/Check%20out%20my%20Portflio-%23FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://ninas-web-works.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Check%20out-%23FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://ninas-web-works.netlify.app/)
 
 ## 🌟 Interests
 
